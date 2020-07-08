@@ -1,0 +1,35 @@
+.white-bg{
+    background-color: white;
+    
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, dimgray 0%, black 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+footer{
+    border-top: none;
+    background-color: white;
+}
+.pad{
+    padding: 40px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.row{
+    padding: 100px;
+     ;
+    }
+.cat{
+    width: 80%;
+}
+.cat1{
+    text-align: center;
+}
